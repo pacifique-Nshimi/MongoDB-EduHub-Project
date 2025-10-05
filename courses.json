@@ -1,0 +1,147 @@
+[
+    {
+        "courseId": "CRS001",
+        "title": "DevOps Fundamentals",
+        "description": "Learn automation, CI/CD pipelines, and containerization for efficient deployments.",
+        "instructorId": "INST004",
+        "category": "Cloud Computing",
+        "level": "advanced",
+        "duration": 11,
+        "price": 95.23,
+        "tags": [
+            "Data Analysis",
+            "AI"
+        ],
+        "createdAt": "2025-08-11 16:43:26.286062",
+        "updatedAt": "2025-10-04 16:43:26.286072",
+        "isPublished": true,
+        "_id": "68e1409edb0f44e09736d5cc"
+    },
+    {
+        "courseId": "CRS002",
+        "title": "Introduction to Data Science",
+        "description": "Learn the fundamentals of data science, from cleaning datasets to building predictive models.",
+        "instructorId": "INST001",
+        "category": "Data Science",
+        "level": "beginner",
+        "duration": 53,
+        "price": 133.25,
+        "tags": [
+            "Data Analysis",
+            "Web Dev",
+            "AI"
+        ],
+        "createdAt": "2025-01-16 16:43:26.286088",
+        "updatedAt": "2025-10-04 16:43:26.286110",
+        "isPublished": true,
+        "_id": "68e1409edb0f44e09736d5cd"
+    },
+    {
+        "courseId": "CRS003",
+        "title": "Full-Stack Web Development",
+        "description": "Build responsive user interfaces using React and modern JavaScript tools.",
+        "instructorId": "INST005",
+        "category": "Web Development",
+        "level": "intermediate",
+        "duration": 45,
+        "price": 148.82,
+        "tags": [
+            "Python",
+            "Cloud",
+            "Data Analysis"
+        ],
+        "createdAt": "2025-05-13 16:43:26.286186",
+        "updatedAt": "2025-10-04 16:43:26.286196",
+        "isPublished": false,
+        "_id": "68e1409edb0f44e09736d5ce"
+    },
+    {
+        "courseId": "CRS004",
+        "title": "Cloud Computing with AWS",
+        "description": "Explore serverless computing and how to build applications without managing servers.",
+        "instructorId": "INST005",
+        "category": "Cloud Computing",
+        "level": "advanced",
+        "duration": 82,
+        "price": 65.03,
+        "tags": [
+            "Python",
+            "Data Analysis"
+        ],
+        "createdAt": "2025-04-28 16:43:26.286220",
+        "updatedAt": "2025-10-04 16:43:26.286224",
+        "isPublished": true,
+        "_id": "68e1409edb0f44e09736d5cf"
+    },
+    {
+        "courseId": "CRS005",
+        "title": "Serverless Applications on Cloud",
+        "description": "Explore serverless computing and how to build applications without managing servers.",
+        "instructorId": "INST002",
+        "category": "Cloud Computing",
+        "level": "advanced",
+        "duration": 91,
+        "price": 95.33,
+        "tags": [
+            "Cloud",
+            "Data Analysis"
+        ],
+        "createdAt": "2025-06-25 16:43:26.286298",
+        "updatedAt": "2025-10-04 16:43:26.286335",
+        "isPublished": false,
+        "_id": "68e1409edb0f44e09736d5d0"
+    },
+    {
+        "courseId": "CRS006",
+        "title": "Frontend Development with React",
+        "description": "Build responsive user interfaces using React and modern JavaScript tools.",
+        "instructorId": "INST004",
+        "category": "Web Development",
+        "level": "beginner",
+        "duration": 82,
+        "price": 57.21,
+        "tags": [
+            "Python",
+            "Data Analysis"
+        ],
+        "createdAt": "2025-04-23 16:43:26.286356",
+        "updatedAt": "2025-10-04 16:43:26.286359",
+        "isPublished": false,
+        "_id": "68e1409edb0f44e09736d5d1"
+    },
+    {
+        "courseId": "CRS007",
+        "title": "Serverless Applications on Cloud",
+        "description": "Explore serverless computing and how to build applications without managing servers.",
+        "instructorId": "INST002",
+        "category": "Cloud Computing",
+        "level": "intermediate",
+        "duration": 59,
+        "price": 63.21,
+        "tags": [
+            "Python",
+            "Cloud"
+        ],
+        "createdAt": "2025-08-09 16:43:26.286368",
+        "updatedAt": "2025-10-04 16:43:26.286370",
+        "isPublished": true,
+        "_id": "68e1409edb0f44e09736d5d2"
+    },
+    {
+        "courseId": "CRS008",
+        "title": "Serverless Applications on Cloud",
+        "description": "Understand cloud architecture and work hands-on with AWS services.",
+        "instructorId": "INST002",
+        "category": "Cloud Computing",
+        "level": "advanced",
+        "duration": 12,
+        "price": 111.76,
+        "tags": [
+            "Python"
+        ],
+        "createdAt": "2025-09-25 16:43:26.286378",
+        "updatedAt": "2025-10-04 16:43:26.286379",
+        "isPublished": false,
+        "_id": "68e1409edb0f44e09736d5d3"
+    }
+]

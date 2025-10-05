@@ -1,0 +1,309 @@
+[
+    {
+        "lessonId": "LES001",
+        "courseId": "CRS008",
+        "title": "Final Project Overview",
+        "content": "Connect external data using APIs.",
+        "order": 1,
+        "resources": [
+            "http://sanders-johnson.net/"
+        ],
+        "createdAt": "2025-07-31 16:48:14.619181",
+        "updatedAt": "2025-10-04 16:48:14.619198",
+        "_id": "68e141bedb0f44e09736d5f9"
+    },
+    {
+        "lessonId": "LES002",
+        "courseId": "CRS001",
+        "title": "SQL Fundamentals",
+        "content": "Covers key programming concepts and examples.",
+        "order": 2,
+        "resources": [],
+        "createdAt": "2025-07-21 16:48:14.619214",
+        "updatedAt": "2025-10-04 16:48:14.619217",
+        "_id": "68e141bedb0f44e09736d5fa"
+    },
+    {
+        "lessonId": "LES003",
+        "courseId": "CRS004",
+        "title": "Final Project Overview",
+        "content": "Connect external data using APIs.",
+        "order": 3,
+        "resources": [],
+        "createdAt": "2025-09-30 16:48:14.619222",
+        "updatedAt": "2025-10-04 16:48:14.619224",
+        "_id": "68e141bedb0f44e09736d5fb"
+    },
+    {
+        "lessonId": "LES004",
+        "courseId": "CRS001",
+        "title": "SQL Fundamentals",
+        "content": "Clean and prepare datasets for analysis.",
+        "order": 4,
+        "resources": [],
+        "createdAt": "2025-08-23 16:48:14.619228",
+        "updatedAt": "2025-10-04 16:48:14.619230",
+        "_id": "68e141bedb0f44e09736d5fc"
+    },
+    {
+        "lessonId": "LES005",
+        "courseId": "CRS005",
+        "title": "Final Project Overview",
+        "content": "Clean and prepare datasets for analysis.",
+        "order": 5,
+        "resources": [
+            "http://www.fitzgerald-shaw.com/"
+        ],
+        "createdAt": "2025-07-15 16:48:14.619453",
+        "updatedAt": "2025-10-04 16:48:14.619456",
+        "_id": "68e141bedb0f44e09736d5fd"
+    },
+    {
+        "lessonId": "LES006",
+        "courseId": "CRS006",
+        "title": "Final Project Overview",
+        "content": "Learn how to store and manage data efficiently.",
+        "order": 6,
+        "resources": [
+            "http://lopez.com/",
+            "https://www.gonzales.com/"
+        ],
+        "createdAt": "2025-09-16 16:48:14.620020",
+        "updatedAt": "2025-10-04 16:48:14.620024",
+        "_id": "68e141bedb0f44e09736d5fe"
+    },
+    {
+        "lessonId": "LES007",
+        "courseId": "CRS008",
+        "title": "Power BI Dashboards",
+        "content": "Learn how to store and manage data efficiently.",
+        "order": 7,
+        "resources": [
+            "http://www.mccarthy-garcia.org/"
+        ],
+        "createdAt": "2025-08-31 16:48:14.620223",
+        "updatedAt": "2025-10-04 16:48:14.620226",
+        "_id": "68e141bedb0f44e09736d5ff"
+    },
+    {
+        "lessonId": "LES008",
+        "courseId": "CRS008",
+        "title": "Intro to Programming",
+        "content": "Clean and prepare datasets for analysis.",
+        "order": 8,
+        "resources": [],
+        "createdAt": "2025-08-11 16:48:14.620231",
+        "updatedAt": "2025-10-04 16:48:14.620233",
+        "_id": "68e141bedb0f44e09736d600"
+    },
+    {
+        "lessonId": "LES009",
+        "courseId": "CRS005",
+        "title": "Data Cleaning",
+        "content": "Introduction to ML principles and workflows.",
+        "order": 9,
+        "resources": [],
+        "createdAt": "2025-07-12 16:48:14.620237",
+        "updatedAt": "2025-10-04 16:48:14.620238",
+        "_id": "68e141bedb0f44e09736d601"
+    },
+    {
+        "lessonId": "LES010",
+        "courseId": "CRS008",
+        "title": "Data Structures",
+        "content": "Covers key programming concepts and examples.",
+        "order": 10,
+        "resources": [],
+        "createdAt": "2025-09-16 16:48:14.620242",
+        "updatedAt": "2025-10-04 16:48:14.620244",
+        "_id": "68e141bedb0f44e09736d602"
+    },
+    {
+        "lessonId": "LES011",
+        "courseId": "CRS002",
+        "title": "Machine Learning Intro",
+        "content": "Wrap-up and final course project session.",
+        "order": 11,
+        "resources": [],
+        "createdAt": "2025-07-22 16:48:14.620254",
+        "updatedAt": "2025-10-04 16:48:14.620256",
+        "_id": "68e141bedb0f44e09736d603"
+    },
+    {
+        "lessonId": "LES012",
+        "courseId": "CRS002",
+        "title": "Data Structures",
+        "content": "Hands-on session building a basic web app.",
+        "order": 12,
+        "resources": [
+            "http://mcgee.com/"
+        ],
+        "createdAt": "2025-08-09 16:48:14.620532",
+        "updatedAt": "2025-10-04 16:48:14.620535",
+        "_id": "68e141bedb0f44e09736d604"
+    },
+    {
+        "lessonId": "LES013",
+        "courseId": "CRS002",
+        "title": "Final Project Overview",
+        "content": "Introduction to ML principles and workflows.",
+        "order": 13,
+        "resources": [],
+        "createdAt": "2025-07-08 16:48:14.620538",
+        "updatedAt": "2025-10-04 16:48:14.620540",
+        "_id": "68e141bedb0f44e09736d605"
+    },
+    {
+        "lessonId": "LES014",
+        "courseId": "CRS008",
+        "title": "Intro to Programming",
+        "content": "Clean and prepare datasets for analysis.",
+        "order": 14,
+        "resources": [
+            "https://martinez-marquez.net/",
+            "https://wright.net/"
+        ],
+        "createdAt": "2025-09-09 16:48:14.620844",
+        "updatedAt": "2025-10-04 16:48:14.620846",
+        "_id": "68e141bedb0f44e09736d606"
+    },
+    {
+        "lessonId": "LES015",
+        "courseId": "CRS001",
+        "title": "Final Project Overview",
+        "content": "Query and manage structured data using SQL.",
+        "order": 15,
+        "resources": [
+            "http://www.davis-rivera.info/",
+            "https://www.cruz.com/"
+        ],
+        "createdAt": "2025-08-22 16:48:14.621146",
+        "updatedAt": "2025-10-04 16:48:14.621149",
+        "_id": "68e141bedb0f44e09736d607"
+    },
+    {
+        "lessonId": "LES016",
+        "courseId": "CRS001",
+        "title": "Machine Learning Intro",
+        "content": "Wrap-up and final course project session.",
+        "order": 16,
+        "resources": [
+            "https://conner-martinez.com/",
+            "http://www.dorsey-alvarez.org/"
+        ],
+        "createdAt": "2025-07-03 16:48:14.621523",
+        "updatedAt": "2025-10-04 16:48:14.621525",
+        "_id": "68e141bedb0f44e09736d608"
+    },
+    {
+        "lessonId": "LES017",
+        "courseId": "CRS002",
+        "title": "Machine Learning Intro",
+        "content": "Create visuals and dashboards using Power BI.",
+        "order": 17,
+        "resources": [
+            "http://www.lopez-vance.com/"
+        ],
+        "createdAt": "2025-09-14 16:48:14.621719",
+        "updatedAt": "2025-10-04 16:48:14.621721",
+        "_id": "68e141bedb0f44e09736d609"
+    },
+    {
+        "lessonId": "LES018",
+        "courseId": "CRS005",
+        "title": "APIs and Integration",
+        "content": "Connect external data using APIs.",
+        "order": 18,
+        "resources": [
+            "https://www.bean-sloan.com/"
+        ],
+        "createdAt": "2025-08-13 16:48:14.622065",
+        "updatedAt": "2025-10-04 16:48:14.622074",
+        "_id": "68e141bedb0f44e09736d60a"
+    },
+    {
+        "lessonId": "LES019",
+        "courseId": "CRS005",
+        "title": "Power BI Dashboards",
+        "content": "Write efficient and reusable Python code.",
+        "order": 19,
+        "resources": [
+            "http://www.johnson.net/",
+            "http://www.hoffman-white.com/"
+        ],
+        "createdAt": "2025-09-13 16:48:14.622686",
+        "updatedAt": "2025-10-04 16:48:14.622694",
+        "_id": "68e141bedb0f44e09736d60b"
+    },
+    {
+        "lessonId": "LES020",
+        "courseId": "CRS008",
+        "title": "Web Development Basics",
+        "content": "Write efficient and reusable Python code.",
+        "order": 20,
+        "resources": [
+            "https://www.johnson.com/"
+        ],
+        "createdAt": "2025-07-21 16:48:14.622837",
+        "updatedAt": "2025-10-04 16:48:14.622841",
+        "_id": "68e141bedb0f44e09736d60c"
+    },
+    {
+        "lessonId": "LES021",
+        "courseId": "CRS007",
+        "title": "Python Functions",
+        "content": "Hands-on session building a basic web app.",
+        "order": 21,
+        "resources": [],
+        "createdAt": "2025-09-19 16:48:14.622847",
+        "updatedAt": "2025-10-04 16:48:14.622849",
+        "_id": "68e141bedb0f44e09736d60d"
+    },
+    {
+        "lessonId": "LES022",
+        "courseId": "CRS002",
+        "title": "Power BI Dashboards",
+        "content": "Connect external data using APIs.",
+        "order": 22,
+        "resources": [],
+        "createdAt": "2025-07-22 16:48:14.622853",
+        "updatedAt": "2025-10-04 16:48:14.622855",
+        "_id": "68e141bedb0f44e09736d60e"
+    },
+    {
+        "lessonId": "LES023",
+        "courseId": "CRS008",
+        "title": "Data Cleaning",
+        "content": "Create visuals and dashboards using Power BI.",
+        "order": 23,
+        "resources": [],
+        "createdAt": "2025-09-19 16:48:14.622858",
+        "updatedAt": "2025-10-04 16:48:14.622860",
+        "_id": "68e141bedb0f44e09736d60f"
+    },
+    {
+        "lessonId": "LES024",
+        "courseId": "CRS001",
+        "title": "Final Project Overview",
+        "content": "Connect external data using APIs.",
+        "order": 24,
+        "resources": [],
+        "createdAt": "2025-08-25 16:48:14.622863",
+        "updatedAt": "2025-10-04 16:48:14.622865",
+        "_id": "68e141bedb0f44e09736d610"
+    },
+    {
+        "lessonId": "LES025",
+        "courseId": "CRS007",
+        "title": "Data Cleaning",
+        "content": "Introduction to ML principles and workflows.",
+        "order": 25,
+        "resources": [
+            "https://www.sanford.com/",
+            "https://walsh.net/"
+        ],
+        "createdAt": "2025-07-09 16:48:14.623423",
+        "updatedAt": "2025-10-04 16:48:14.623426",
+        "_id": "68e141bedb0f44e09736d611"
+    }
+]

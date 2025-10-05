@@ -1,0 +1,112 @@
+[
+    {
+        "assignmentId": "ASM001",
+        "courseId": "CRS005",
+        "title": "Assignment 1",
+        "description": "Prepare summary presentation.",
+        "dueDate": "2025-10-23 16:43:36.873991",
+        "createdAt": "2025-09-28 16:43:36.874005",
+        "updatedAt": "2025-10-04 16:43:36.874010",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e3"
+    },
+    {
+        "assignmentId": "ASM002",
+        "courseId": "CRS005",
+        "title": "Assignment 2",
+        "description": "Develop predictive model.",
+        "dueDate": "2025-10-21 16:43:36.874019",
+        "createdAt": "2025-10-02 16:43:36.874023",
+        "updatedAt": "2025-10-04 16:43:36.874026",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e4"
+    },
+    {
+        "assignmentId": "ASM003",
+        "courseId": "CRS007",
+        "title": "Assignment 3",
+        "description": "Build Power BI dashboard.",
+        "dueDate": "2025-10-23 16:43:36.874031",
+        "createdAt": "2025-09-04 16:43:36.874034",
+        "updatedAt": "2025-10-04 16:43:36.874036",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e5"
+    },
+    {
+        "assignmentId": "ASM004",
+        "courseId": "CRS003",
+        "title": "Assignment 4",
+        "description": "Write report on market findings.",
+        "dueDate": "2025-10-25 16:43:36.874041",
+        "createdAt": "2025-09-10 16:43:36.874043",
+        "updatedAt": "2025-10-04 16:43:36.874045",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e6"
+    },
+    {
+        "assignmentId": "ASM005",
+        "courseId": "CRS007",
+        "title": "Assignment 5",
+        "description": "Visualize data trends.",
+        "dueDate": "2025-10-14 16:43:36.874049",
+        "createdAt": "2025-09-23 16:43:36.874051",
+        "updatedAt": "2025-10-04 16:43:36.874054",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e7"
+    },
+    {
+        "assignmentId": "ASM006",
+        "courseId": "CRS006",
+        "title": "Assignment 6",
+        "description": "Analyze dataset and share insights.",
+        "dueDate": "2025-10-26 16:43:36.874057",
+        "createdAt": "2025-09-07 16:43:36.874059",
+        "updatedAt": "2025-10-04 16:43:36.874062",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e8"
+    },
+    {
+        "assignmentId": "ASM007",
+        "courseId": "CRS007",
+        "title": "Assignment 7",
+        "description": "Implement problem-solving algorithm.",
+        "dueDate": "2025-11-02 16:43:36.874065",
+        "createdAt": "2025-09-08 16:43:36.874067",
+        "updatedAt": "2025-10-04 16:43:36.874070",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5e9"
+    },
+    {
+        "assignmentId": "ASM008",
+        "courseId": "CRS008",
+        "title": "Assignment 8",
+        "description": "Prepare summary presentation.",
+        "dueDate": "2025-11-03 16:43:36.874073",
+        "createdAt": "2025-09-21 16:43:36.874075",
+        "updatedAt": "2025-10-04 16:43:36.874078",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5ea"
+    },
+    {
+        "assignmentId": "ASM009",
+        "courseId": "CRS008",
+        "title": "Assignment 9",
+        "description": "Develop predictive model.",
+        "dueDate": "2025-10-26 16:43:36.874081",
+        "createdAt": "2025-09-12 16:43:36.874083",
+        "updatedAt": "2025-10-04 16:43:36.874086",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5eb"
+    },
+    {
+        "assignmentId": "ASM010",
+        "courseId": "CRS001",
+        "title": "Assignment 10",
+        "description": "Develop predictive model.",
+        "dueDate": "2025-10-28 16:43:36.874090",
+        "createdAt": "2025-09-05 16:43:36.874093",
+        "updatedAt": "2025-10-04 16:43:36.874095",
+        "maxScore": 100,
+        "_id": "68e140a8db0f44e09736d5ec"
+    }
+]
